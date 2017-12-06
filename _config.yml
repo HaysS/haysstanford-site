@@ -3,7 +3,7 @@ title: Hays Stanford
 email: haysstanford@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Get valuable insights into startups, coding, and humanity. Learn 
-  how to increase your chances of success from nothing.
+  how to increase your chances of success.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://haysstanford.com" # the base hostname & protocol for your site
 twitter_username: thehaysstanford
