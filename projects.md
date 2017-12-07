@@ -4,13 +4,28 @@ title: Cool stuff I've built
 permalink: /projects/
 ---
 
-<img src="{{ site.url }}/assets/images/search.png" style=""/> 
+<img src="{{ site.url }}/assets/images/find-and-message.png" width="125" style=""/> 
+<img src="{{ site.url }}/assets/images/view-their-photos.png" width="125" style=""/> 
+<img src="{{ site.url }}/assets/images/view-chats.png" width="125" style=""/> 
+<img src="{{ site.url }}/assets/images/log-in-and-add-photos.png" width="125" style=""/> 
+<img src="{{ site.url }}/assets/images/get-a-date.png" width="125" style=""/> 
 <h1>Ice Breakerr - Meet anyone before you see their pictures</h1>
 <a href="http://www.icebreakerr.com/">http://www.icebreakerr.com</a>
 
-This site allows anyone to freely view my insights, triumphs, and struggles. My goal is to be as transparent as possible. It is my hope that you will be able to get a better understanding of what it may look like for you to go on a similar journey.
+Ice Breakerr is a mobile app that matches people based on expressive personalized profiles first, later showing personal pictures and other superficial credentials after 5 messages are received in a mutual chat with a match. 
 
-<h1>Bio</h1> 
-Hi, my name is Hays Stanford. I'm an unconventional guy with too much enthusiasm who is here to teach you how to succeed in the Silicon Valley tech scene with a minimum wage income. 
+These are the only things shown on initial profiles: Any animated GIF on Imgur (under 1.5mb), gender, age, custom text, emojis, and distance from the user's location.
 
-I stopped attending highschool at the age of 16 and started classes at a community college in Austin, TX after turning 17. A few semesters later, I transferred into UT Austin, only to drop out in order to try to start a tech business in Silicon Valley.
+
+<img src="{{ site.url }}/assets/images/backpack-gif.gif" width="225" height="150" style=""/> 
+<img src="{{ site.url }}/assets/images/led-backpack-showcase.jpg" width="200" height="150" style=""/> 
+<img src="{{ site.url }}/assets/images/clothwear-full-product-expanded.jpg" width="200" height="150" style=""/> 
+<h1>ClothWear Backpack - Play any animated GIF on your backpack</h1>
+
+Built a backpack that allows you to play any 32x32px animated GIF file from a microSD card. Had an eCommerce store at the domain clothwear.us where I was selling these.
+
+Soldered all of them myself, but I couldn't get the cost low enough for the target market. However, there was definitely a demand in the festival/EDM scene for this product, and I still believe it could make money if someone had the funds to buy wholesale and optimize the design.
+
+This project did lead me to make over $5k in revenue from flipping items from thrift stores and selling custom products on eBay and Amazon.
+
+If you want one, I will still send it to you for $180. Just email me: <a href="mailto:haysstanford@gmail.com">haysstanford@gmail.com</a>
