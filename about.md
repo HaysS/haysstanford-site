@@ -6,7 +6,7 @@ permalink: /about/
 
 <img src="https://www.haysstanford.com/assets/images/face-pic.jpg" width="200" height="200" style=""/> 
 
-<h1>What You Can Get From This Site</h1>
+<h1>What You Can Get Here</h1>
 This site allows anyone to freely view my insights, triumphs, and struggles. My goal is to be as transparent as possible. It is my hope that you will be able to get a better understanding of what it may look like for you to go on a similar journey.
 
 <h1>Bio</h1> 
