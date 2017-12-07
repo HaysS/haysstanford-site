@@ -36,11 +36,14 @@ $on-laptop:        800px;
 //         padding-left: $spacing-unit / 2;
 //     }
 // }
+
 @mixin media-query($device) {
     @media screen and (max-width: $device) {
         @content;
+    }
 
-        .column {
+    @media screen and (min-width: $on-laptop) {
+    	.column {
 		    float: left;
 		    width: 50%;
 		}
