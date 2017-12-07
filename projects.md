@@ -4,7 +4,7 @@ title: Cool stuff I've built
 permalink: /projects/
 ---
 
-<img src="https://www.haysstanford.com/assets/images/search.png" style=""/> 
+<img src="{{ site.url }}/assets/images/search.png" style=""/> 
 <h1>Ice Breakerr - Meet anyone before you see their pictures</h1>
 <a href="http://www.icebreakerr.com/">http://www.icebreakerr.com</a>
 
