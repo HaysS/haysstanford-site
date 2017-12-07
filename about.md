@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<img src="https://www.haysstanford.com/assets/images/face-pic.jpg" width="100" height="100" />
+<img src="https://www.haysstanford.com/assets/images/face-pic.jpg" width="200" height="200" />
 
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
 
