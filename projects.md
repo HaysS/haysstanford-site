@@ -1,12 +1,13 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Cool stuff I've built
+permalink: /projects/
 ---
 
-<img src="https://www.haysstanford.com/assets/images/face-pic.jpg" width="200" height="200" style=""/> 
+<img src="https://www.haysstanford.com/assets/images/search.png" style=""/> 
+<h1>Ice Breakerr - Meet anyone before you see their pictures</h1>
+<a href="http://www.icebreakerr.com/">http://www.icebreakerr.com</a>
 
-<h1>What you can get here</h1>
 This site allows anyone to freely view my insights, triumphs, and struggles. My goal is to be as transparent as possible. It is my hope that you will be able to get a better understanding of what it may look like for you to go on a similar journey.
 
 <h1>Bio</h1> 
